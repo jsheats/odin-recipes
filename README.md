@@ -1,5 +1,5 @@
 # odin-recipes
-Practicing HTML knowledge acquired by creating a basic recipe website
+Practicing HTML knowledge by creating a basic recipe website
 
 This project showcases the following skills:
 
